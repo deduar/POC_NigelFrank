@@ -1,0 +1,18 @@
+{
+  "ingested": 3,
+  "quality": {
+    "rows": 3,
+    "nulls": {
+      "transaction_id": 0,
+      "customer_id": 0,
+      "quantity": 0,
+      "unit_price": 0,
+      "timestamp": 0,
+      "region": 0,
+      "status": 0
+    },
+    "duplicates": 0,
+    "failed": 0
+  },
+  "loaded": 3
+}

@@ -1,0 +1,4 @@
+transaction_id,customer_id,product,quantity,unit_price,timestamp,region,status
+T0001,C001,A,2,10.5,2024-01-01 00:00:00, EU ,ok
+T0002,C002,B,3,5.0,2024-01-01 01:00:00,us,ok
+T0003,C001,C,1,100.0,2024-01-01 02:00:00,LATAM,pending
